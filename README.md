@@ -104,9 +104,9 @@ markdown学习笔记
 `console.log('hello world')`
 
 - 多行代码
-```
+```javascript
 function sayHello () {
-  console.log('hello world')
+    console.log('hello world')
 }
 ```
 
