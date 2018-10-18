@@ -129,3 +129,18 @@ function sayHello () {
 >1. :--...--: 居中
 >2. --...-- 左对齐
 >3. --...--: 右对齐
+
+## 2018-10-18 笔记
+1. 图片居中展示
+
+<div align=center>
+
+![图片解释文案](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+</div>
+
+>\<div align=center>
+>
+>\!\[图片解释文案](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+>
+>\</div>
